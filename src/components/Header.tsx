@@ -14,13 +14,13 @@ const Header = () => {
             </div>
           </div>
           <nav className="hidden md:flex items-center gap-6">
-            <a href="#" className="text-gray-600 hover:text-blue-600 font-medium">
+            <a href="https://tinyurl.com/JobsHubUSA-AmazonJobs" className="text-gray-600 hover:text-blue-600 font-medium">
               Find Jobs
             </a>
-            <a href="#" className="text-gray-600 hover:text-blue-600 font-medium">
+            <a href="https://tinyurl.com/HigherIncome-Jobs-Pepsi-Jobs" className="text-gray-600 hover:text-blue-600 font-medium">
               Company Reviews
             </a>
-            <a href="#" className="text-gray-600 hover:text-blue-600 font-medium">
+            <a href="https://tinyurl.com/PrizeStash-DoorDash" className="text-gray-600 hover:text-blue-600 font-medium">
               Post Resume
             </a>
             <Button variant="outline" className="border-blue-500 text-blue-500 hover:bg-blue-50">
